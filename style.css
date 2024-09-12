@@ -2,6 +2,7 @@
     box-sizing: border-box;
 }
 
+/*Header style*/
 header {
     display: flex;
     color: grey;
@@ -88,6 +89,40 @@ p {
 /*Image jumbo*/
 #image {
     width: 1000px;
+    display: inline-block;
+}
+
+#btn-blue {
+    color: white;
+    background-color: rgba(0,97,255,255);
+    width: 180px;
+    height: 40px;
+    border: 1px;
+}
+
+/*Second title styling*/
+#second-title {
+    margin-top: 350px;
+    font-size: 35px;
+    font-family: "Lexend", system-ui;
+}
+
+/*Box styling*/
+.box {
+    width: 1000px;
+    margin: auto;
+}
+
+/*Radio button styling*/
+#annual {
+    margin-left: 30px;
+}
+
+.run {
+    width: 300px;
+    height: 500px;
+    margin-top: 30px;
+    border: 2px solid black;
     display: inline-block;
 }
 
