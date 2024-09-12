@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    color: grey;
+}
+
+#subject {
+    margin-left: 50px;
+    display: inline-block;
+}
+
+/*Logo*/
+#logo {
+    width: 100px;
+    height: 35px;
+    margin-top: 17px;
+    display: inline-block;
+}
+
+#row {
+    margin-left: 50px;
+    display: inline-block;
+}
+
+#written {
+    margin-left: 50px;
+    display: inline-block;
+}
+
+#suport {
+    display: inline-block;
+    margin-left: 1420px;
+}
+
+#contact {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+/*Button inizia*/
+#btn {
+    width: 55px;
+    height: 35px;
+    margin-left: 10px;
+    color: white;
+    background-color: rgb(62, 88, 239);
+}
+
+/*Main title*/
+#main-title {
+    text-align: center;
+    font-size: 25px;
+    color: black;
+    font-family: "Lexend", system-ui;
+}
+
+.container {
+    width: 2551px;
+    height: 600px;
+    margin: auto;
+    background-color: rgba(180,208,231,255);
+}
+
