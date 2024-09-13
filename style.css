@@ -67,7 +67,7 @@ header {
 /*Main title*/
 #main-title {
     text-align: center;
-    font-size: 35px;
+    font-size: 37px;
     padding-top: 20px;
     color: black;
     font-family: "Lexend", system-ui;
@@ -127,7 +127,7 @@ p {
 .run {
     width: 300px;
     height: 1000px;
-    margin-top: 30px;
+    margin-top: 50px;
     border: 2px solid black;
     display: inline-block;
 }
@@ -139,5 +139,34 @@ p {
 
 .feauture {
     margin-left: 25px;
+}
+
+.contacts {
+    padding-top: 27px;
+    margin-left: 25px;
+}
+
+/*Price*/
+.price {
+    font-size: 20px;
+    margin-left: 25px;
+}
+
+.prova {
+    color: white;
+    background-color: rgba(0,97,255,255);
+    width: 180px;
+    height: 40px;
+    border: 1px;
+    margin-left: 25px;
+}
+
+.utente, .archivazione, .funzioni, .buy {
+    margin-left: 25px;
+}
+
+.special {
+    width: 50px;
+    margin-left: 30px;
 }
 
