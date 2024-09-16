@@ -127,9 +127,7 @@ p {
 .run {
     width: 300px;
     height: 1000px;
-    margin-top: 50px;
     border: 2px solid black;
-    display: inline-block;
 }
 
 .sub-title {
@@ -161,6 +159,7 @@ p {
     margin-left: 25px;
 }
 
+
 .utente, .archivazione, .funzioni, .buy {
     margin-left: 25px;
 }
@@ -168,5 +167,288 @@ p {
 .special {
     width: 50px;
     margin-left: 30px;
+}
+
+.object, .run{
+    height: 1230px;
+    font-size: 23px;
+    border: 2px solid black;
+    display: inline-block;
+    margin-top: 80px;
+    margin-left: 10px;
+}
+
+#team {
+    margin-left: 150px;
+}
+
+.low {
+    margin-left: 775px;
+    margin-top: 60px;
+    width: 955px;
+    height: 300px;
+    border: 2px solid black;
+}
+
+#rule {
+    margin-top: 20px;
+}
+
+#about-us {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+#button {
+    color: white;
+    background-color: rgba(0,97,255,255);
+    border: 1px;
+    padding: 10px;
+    margin-left: 755px;
+    margin-top: 10px;
+}
+
+#partner {
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+    margin-left: 775px;
+    margin-top: 150px;
+}
+
+#subjects {
+    display: inline-block;
+    margin-left: 60px;
+}
+
+#partners {
+    padding: 10px;
+    margin-top: 200px;
+}
+
+#business {
+    font-size: 36px;
+    margin-left: 755px;
+    margin-top: 50px;
+    font-family: "Lexend", system-ui;
+}
+
+#coordinate, #tools, #true {
+    width: 300px;
+    height: 300px;
+}
+
+#coordinate {
+    display: inline-block;
+}
+
+.runs {
+    display: inline-block;
+}
+
+#true {
+    margin-left: 800px;
+}
+
+#coordinates56 {
+    width: 300px;
+    height: 300px;
+    margin-left: 800px;
+}
+
+#coordinates456 {
+    width: 300px;
+    height: 300px;
+}
+
+#coordinates406 {
+    width: 300px;
+    height: 300px;
+}
+
+.descriptions {
+    margin-left: 800px;
+}
+
+.descriptio {
+    margin-left: 800px;
+}
+
+#pass {
+    margin-left: 800px;
+}
+
+#dropbox {
+    margin-left: 800px;
+    margin-top: 150px;
+    font-family: "Lexend", system-ui;
+}
+
+#link {
+    margin-left: 800px;
+    margin-top: 50px;
+    padding-bottom: 150px;
+}
+
+#lonely {
+    width: 400px;
+    height: 383px;
+    padding-top: 133px;
+    position: relative;
+    bottom: 385px;
+    text-align: center;
+    color: white;
+    background-color: rgba(13,36,129,255);
+    display: inline-block;
+    margin-left: 1672px;
+}
+
+.channel {
+    width: 200px;
+    margin-bottom: 40px;
+}
+
+#planet {
+    width: 800px;
+    height: 770px;
+    padding-top: 170px;
+    padding-left: 20px;
+    color: white;
+    background-color: rgba(245,245,245,255);
+    margin: auto;
+}
+
+#clear {
+    width: 400px;
+    height: 385px;
+    padding-top: 100px;
+    position: relative;
+    bottom: 900px;
+    left: 2070px;
+    text-align: center;
+    color: white;
+    background-color: rgba(255,216,48,255);
+    display: inline-block;
+}
+
+#hearst {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 830px;
+    right: 5px;
+    text-align: center;
+    color: white;
+    background-color: rgba(180,208,231,255);
+    display: inline-block;
+}
+
+#world {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 1300px;
+    left: 1268px;
+    text-align: center;
+    color: white;
+    background-color: rgba(213,0,31,255);
+    display: inline-block;
+}
+
+#worlds {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 1217px;
+    right: 337px;
+    text-align: center;
+    color: white;
+    background-color: rgba(97,8,43,255);
+    display: inline-block;
+}
+
+#designed {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 1290px;
+    right: 1140px;
+    text-align: center;
+    color: white;
+    background-color: rgba(162,211,155,255);
+    display: inline-block;
+    border: 20px solid rgba(209,233,205,255);
+}
+
+#university {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 1306px;
+    left: 72px;
+    text-align: center;
+    background-color: rgba(0,147,206,255);
+}
+
+#topps {
+    width: 400px;
+    height: 385px;
+    padding-top: 150px;
+    position: relative;
+    bottom: 1688px;
+    left: 472px;
+    text-align: center;
+    background-color: rgba(255,28,28,255);
+}
+
+
+footer {
+    background-color: rgba(0,0,0,255);
+    margin: 0;
+    height: 500px;
+}
+
+.colors {
+    color: white;
+    font-size: 23px;
+    display: inline-block;
+    margin-left: 150px;
+    font-family: "Lexend", system-ui;
+}
+
+#color {
+    display: inline-block;
+    margin-left: 300px;
+    margin-top: 100px;
+}
+
+#frequenti {
+    margin-left: 600px;
+    font-size: 28px;
+    font-family: "Lexend", system-ui;
+}
+
+hr {
+    width: 1350px;
+    margin-top: 80px;
+}
+
+.left {
+    padding-top: 40px;
+    margin-left: 600px;
+    font-family: "Lexend", system-ui;
+}
+
+#speciale {
+    margin-bottom: 150px;
+}
+
+footer {
+    margin-bottom: 0px;
 }
 
